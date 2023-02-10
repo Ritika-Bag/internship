@@ -19,7 +19,7 @@ h3 {
 }
 
 #pp{
-    background-image: url("https://images.unsplash.com/photo-1610397962076-02407a169a5b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Z3JlZW4lMjBhcHBsZXN8ZW58MHx8MHx8&w=1000&q=80");
+    background-image: url("https://images.pexels.com/photos/693794/pexels-photo-693794.jpeg?cs=srgb&dl=abundance-apples-close-up-693794.jpg&fm=jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -77,7 +77,7 @@ header{
 #oo h1{
     font-size: 70px;
     font-weight: 900;
-    color: aqua;
+    color: rgb(128, 175, 245);
 }
 
 #oo p{
@@ -101,7 +101,7 @@ button{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgba(128, 245, 206, 0.486);
+    background-color: rgba(128, 175, 245, 0.521);
 }
 
 .no1{
@@ -126,7 +126,7 @@ button{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(20, 61, 58);
 }
 
 .d1{
